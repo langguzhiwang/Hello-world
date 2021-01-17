@@ -1,0 +1,22 @@
+#title1
+##title2
+###title3
+---
+**Overstrike**
+*incline*
+~~delete~~
+>>content
+---
+- list1
++ list2
+1. list3
+2. list4
+---
+table|table
+:--:|:--:
+table1|table2
+table3|table4
+---
+`#include<stdio.h>`
+---
+[link](http://github.com)
